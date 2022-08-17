@@ -1,0 +1,18 @@
+2022-08-16
+- Find local suppliers of pumps
+	- [ ] Get pump datasheets, nameplates, figures, prices, and lead times
+	- [ ] Calculate pump flow rates
+	- [ ] Model in EPlan P&ID 
+	- [ ] Route in EPlan multiline
+- Build ponic site
+	- [ ] Take measurements of site
+	- [ ] Create sketch
+		- [ ] Structure
+		- [ ] Below grade power and data
+		- [ ] Water P&ID
+		- [ ] pH P&ID
+		- [ ] Other P&ID? Nutrients, fish waste, 
+	- [ ] Propose plan to roommates
+	- [ ] Gather materials
+	- [ ] Level and excavated ground
+	- [ ] Build structure

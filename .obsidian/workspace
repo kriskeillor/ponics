@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "583d1e87773e224d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9521f0d0caabb14",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "TODO.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "836da7bf6dcb0cb7",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebbdb3d06375a281",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e000b238d70d53c1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e0134e936e1a4951",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "793637d68ef5336f",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfc2bfda08639726",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca4af0978b866da2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TODO.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f9521f0d0caabb14",
+  "lastOpenFiles": [
+    "TODO.md",
+    "README.md"
+  ]
+}
